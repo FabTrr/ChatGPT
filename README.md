@@ -35,3 +35,7 @@ Si se establece por ejemplo n=3, el modelo generaría tres respuestas diferentes
 
 5- Click en "Create new secret key", guaradrlo en la variable openai.api_key
 
+
+
+##### Nota: Parte de este ejemplo está basado en https://copyassignment.com/create-your-own-chatgpt-with-python/
+
